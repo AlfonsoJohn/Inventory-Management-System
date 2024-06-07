@@ -1,0 +1,7 @@
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory_Management_System.Add_Part.resources
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory_Management_System.Add_Product.resources
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory_Management_System.MainForm.resources
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory_Management_System.Modify_Part.resources
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory_Management_System.Modify_Product.resources
+C:\Users\alfon\Inventory-Management-System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
