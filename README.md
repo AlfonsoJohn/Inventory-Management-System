@@ -2,6 +2,8 @@
 
 The Inventory Management System is a desktop application built to manage inventory for a small manufacturing organization. Users can create, view, and manage parts and products.
 
+![App UI](https://imgur.com/mwhp5cx.jpg)
+
 ## Table of Contents
 
 - [Overview](#overview)
