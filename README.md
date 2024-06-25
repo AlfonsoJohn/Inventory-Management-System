@@ -33,6 +33,7 @@ The Inventory Management System provides a platform to manage inventory efficien
 - **Language:** C#
 - **IDE:** Visual Studio
 - **Framework:** .NET
+- **Database:** PostgreSQL
 
 ## Setup
 
